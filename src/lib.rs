@@ -1,5 +1,5 @@
 use std::mem;
-use sysinfo::{System, SystemExt};
+use sysinfo::System;
 
 /// A type representing an unsigned integer with the maximum size that fits in the free memory of the machine.
 pub struct AllOfIt {
