@@ -3,7 +3,7 @@
 version = 4
 
 [[package]]
-name = "All-of-It"
+name = "all_of_it"
 version = "0.1.0"
 dependencies = [
  "sysinfo",
